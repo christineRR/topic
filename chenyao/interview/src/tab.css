@@ -1,0 +1,21 @@
+ul,li{
+    margin:0;
+    padding: 0;
+}
+ul.tabWrap  li{
+    list-style: none;
+    display: inline-block;
+    text-align: center;
+    border-bottom:1px solid grey;
+    padding: 10px 0;
+    cursor: pointer;
+}
+ul.tabWrap li.active{
+    color:red;
+    background-color: #c2ccd1;
+}
+.tabContent{
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+}

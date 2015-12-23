@@ -1,0 +1,22 @@
+{
+  "name": "tab",
+  "version": "1.0.0",
+  "description": "tab test",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ChenYao",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^4.7.16"
+  },
+  "devDependencies": {
+    "babel-loader": "^4.2.0",
+    "css-loader": "^0.9.1",
+    "jsx-loader": "^0.12.2",
+    "react": "^0.13.1",
+    "style-loader": "^0.9.0",
+    "webpack": "^1.7.3"
+  }
+}
